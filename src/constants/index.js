@@ -11,12 +11,12 @@ import {
   redux,
   tailwind,
   nodejs,
-  mongodb,
+  python,
   git,
   figma,
-  docker,
+  cpp,
   meta,
-  starbucks,
+  inc,
   tesla,
   shopify,
   carrent,
@@ -93,8 +93,8 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "Python",
+    icon: python,
   },
   {
     name: "Three JS",
@@ -110,7 +110,7 @@ const technologies = [
   },
   {
     name: "docker",
-    icon: docker,
+    icon: cpp,
   },
 ];
 
@@ -118,9 +118,9 @@ const experiences = [
   {
     title: "SwiftUI Developer",
     company_name: "SST INC.",
-    icon: starbucks,
+    icon: inc,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "July 2023 - Present",
     points: [
       "Creating Projects and Applications in iOS using SwiftUI",
       "Collaborating with talented individuals across the SST Inc team",
@@ -207,7 +207,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "python",
         color: "green-text-gradient",
       },
       {

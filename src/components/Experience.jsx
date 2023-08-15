@@ -16,7 +16,7 @@ const ExperienceCard = ({ experience }) => {
   return (
     <VerticalTimelineElement
       contentStyle={{
-        background: "#1d1836",
+        background: "#005e58",
         color: "#fff",
       }}
       contentArrowStyle={{ borderRight: "7px solid  #232631" }}
@@ -64,7 +64,7 @@ const Experience = () => {
           What I have done so far
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
-          Work Experience.
+          Experiences.
         </h2>
       </motion.div>
 
